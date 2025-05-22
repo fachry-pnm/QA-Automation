@@ -1,2 +1,2 @@
-# QA-Automation
+# QA-Automation - Branch Main
 Belajar Katalon Studio
